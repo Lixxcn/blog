@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Lixx Blog"
-  text: "这里是Lixx的博客，记录了我的所思所想。"
+  text: "李晓旭的博客"
   tagline: My great project tagline
   actions:
     - theme: brand
